@@ -1,0 +1,14 @@
+﻿빌드 시작: 2017-06-14 오후 8:01:10
+     1>2 노드의 "C:\Users\최민경\Desktop\전공\구조체\ㅂㄱㅎc\20170104\20170104.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "알파벳 렌덤하게.c"
+         알파벳 렌덤하게.c
+     1>c:\users\최민경\desktop\전공\구조체\ㅂㄱㅎc\20170104\알파벳 렌덤하게.c(24): warning C4244: '함수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\최민경\Desktop\전공\구조체\ㅂㄱㅎc\Debug\20170104.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\최민경\Desktop\전공\구조체\ㅂㄱㅎc\Debug\20170104.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\최민경\Desktop\전공\구조체\ㅂㄱㅎc\Debug\20170104.lib" /MACHINE:X86 "Debug\알파벳 렌덤하게.obj"
+         20170104.vcxproj -> C:\Users\최민경\Desktop\전공\구조체\ㅂㄱㅎc\Debug\20170104.exe
+     1>"C:\Users\최민경\Desktop\전공\구조체\ㅂㄱㅎc\20170104\20170104.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.67

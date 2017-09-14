@@ -1,0 +1,13 @@
+﻿빌드 시작: 2017-01-11 오후 2:07:16
+     1>2 노드의 "C:\Users\최민경\Desktop\구조체\ㅂㄱㅎc\20170111\20170111.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "전화번호.c"
+         전화번호.c
+     1>c:\users\최민경\desktop\구조체\ㅂㄱㅎc\20170111\전화번호.c(50): warning C4013: '_getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+     1>c:\users\최민경\desktop\구조체\ㅂㄱㅎc\20170111\전화번호.c(62): warning C4013: 'ShowPhoneInfoByPtr'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+     1>c:\users\최민경\desktop\구조체\ㅂㄱㅎc\20170111\전화번호.c(120): error C2371: 'ShowPhoneInfoByPtr' : 재정의. 기본 형식이 다릅니다.
+     1>"C:\Users\최민경\Desktop\구조체\ㅂㄱㅎc\20170111\20170111.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.29
